@@ -1,6 +1,3 @@
-cubes (blocks) are spawned through the DeployBlock script with the help of a prefab
+Open the Unity project and click the SampleScene in Assets > Scenes.
 
-spawn behaviour is found in DeployBlock script
-cube behaviour is found in Cube script
-
-p.s. sorry als het script niet duidelijk is, ik ben een C# noob.
+When hitting play you should be able to see your hands as blocks in VR and should be able to move as usual. The controls are implemented via OpenVR, so should be compatible with any headset (HTC, Valve, Windows Mixed Reality, Oculus) compatible with that.
